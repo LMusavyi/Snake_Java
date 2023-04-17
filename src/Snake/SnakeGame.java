@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package Snake;
-public class SnakeGame {
+public class Main {
 
     public static void main(String[] args) {
         new GameObjects();
